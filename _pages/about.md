@@ -1,6 +1,6 @@
 --- 
 title: "" 
-layout: single_noauthor 
+layout: single 
 permalink: /About/ 
 author_profile: true 
 share: false
