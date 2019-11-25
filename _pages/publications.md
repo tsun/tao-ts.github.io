@@ -8,7 +8,7 @@ toc_label: "Publication List"
 toc_sticky: true 
 ---
 
-<style>a{ TEXT-DECORATION:none; color: #990000;}a:hover{TEXT-DECORATION:underline ; font-weight: bold; color: #990000;}</style>
+<style>a{ TEXT-DECORATION:none; font-weight: bold; color: #990000;}a:hover{TEXT-DECORATION:underline ; font-weight: bold; color: #990000;}</style>
 
 ### 2018
 
