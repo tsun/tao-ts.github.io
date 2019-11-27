@@ -8,11 +8,11 @@ classes: wide
 <style>a{ TEXT-DECORATION:none; color: #990000;}a:hover{TEXT-DECORATION:underline ; font-weight: bold; color: #990000;}</style>
 
 
-I am a Ph.D. student from <style type="text/css">a:link,a:visited{text-decoration:none;}a:hover{text-decoration:underline;}</style><a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow" style="color:#990000;">Dept. of Computer Science at Stony Brook University</a>. I work on computer vision, machine learning and data mining. I obtained my M.Sc. from Nanjing University, advised by <style type="text/css">a:link,a:visited{text-decoration:none;}a:hover{text-decoration:underline;}</style><a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow" style="color:#990000;">Prof. Zhi-Hua Zhou</a>. I received my B.E. from Huazhong University of Science and Technology.
+I am a Ph.D. student from <style type="text/css">a:link,a:visited{text-decoration:none;}a:hover{text-decoration:underline;}</style><a href="https://www.cs.stonybrook.edu/" target="_blank" rel="nofollow" style="color:#990000;">Dept. of Computer Science at Stony Brook University</a>. I work on computer vision, machine learning and data mining. I obtained my M.Sc. from Nanjing University, advised by <style type="text/css">a:link,a:visited{text-decoration:none;}a:hover{text-decoration:underline;}</style><a href="https://cs.nju.edu.cn/zhouzh/" target="_blank" rel="nofollow" style="color:#990000;">Prof. Zhi-Hua Zhou</a>. I received my B.E. from Huazhong University of Science and Technology.
 
 
 ### News
-- [Aug 2019] Start my Ph.D. study in Stony Brook.
+- [Aug 2019] Start to pursue a Ph.D. in Stony Brook.
 
 ### Selected Publications
 <div class="publication">          
