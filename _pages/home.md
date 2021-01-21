@@ -27,7 +27,7 @@ I am a Ph.D. student from <style type="text/css">a:link,a:visited{text-decoratio
        <em>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. (in press)</em> 
  <br> 
  
-       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2008.00965.pdf">PDF</a>         
+       <a class="btn btn--success btn--small" href="/pubs/tpami21.pdf">PDF</a>         
          
      </div>         
    </div>         

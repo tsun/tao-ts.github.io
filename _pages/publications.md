@@ -14,16 +14,16 @@ toc_sticky: true
 
  <div class="publication">          
    <link rel="stylesheet" href="/assets/css/my.css">         
-   <div class="img"><a href="https://arxiv.org/pdf/2008.00965.pdf"><img class="img_responsive" src="/images/pub/tpami21.png"></a></div>         
+   <div class="img"><a href="/pubs/tpami21.pdf"><img class="img_responsive" src="/images/pub/tpami21.png"></a></div>         
    <div class="text">         
-     <div class="title"><a name="fcs18" href="/pubs/fcs18.pdf">End-to-end Full Projector Compensation</a></div>         
+     <div class="title"><a name="tpami21" href="/pubs/tpami21.pdf">End-to-end Full Projector Compensation</a></div>         
      <div class="authors">Bingyao Huang, Tao Sun, and Haibin Ling         
      </div>         
      <div>         
        <em>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. (in press)</em> 
  <br> 
  
-       <a class="btn btn--success btn--small" href="https://arxiv.org/pdf/2008.00965.pdf">PDF</a>         
+       <a class="btn btn--success btn--small" href="/pubs/tpami21.pdf">PDF</a>         
          
      </div>         
    </div>         
