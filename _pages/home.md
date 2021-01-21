@@ -12,7 +12,7 @@ I am a Ph.D. student from <style type="text/css">a:link,a:visited{text-decoratio
 
 
 ### News
-- [Dec 2020] One paper with Bingyao Huang and Haibin Ling accepted by TPAMI.
+- [Jan 2021] One paper with Bingyao Huang and Haibin Ling accepted by TPAMI.
 - [Aug 2019] Start to pursue a Ph.D. in Stony Brook.
 
 ### Selected Publications
