@@ -12,6 +12,7 @@ I am a Ph.D. candidate <del>student</del> from <style type="text/css">a:link,a:v
 
 
 ### News
+- [Jan 2021] Passed Research Proficiency Examination to advance to Ph.D. candidate.
 - [Jan 2021] One paper with Bingyao Huang and Haibin Ling accepted by TPAMI.
 - [Aug 2019] Start to pursue a Ph.D. in Stony Brook.
 
